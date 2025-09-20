@@ -1,0 +1,2 @@
+Artifact created at : Mon Sep 15 13:07:57 2025
+Parameters used     : param_1=10, param_2=20
